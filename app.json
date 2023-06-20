@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Google_sheets_clone",
+    "slug": "Google_sheets_clone"
+  }
+}
