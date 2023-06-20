@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "Google_sheets_clone",
-    "slug": "Google_sheets_clone"
+    "slug": "Google_sheets_clone",
+    "extra": {
+      "eas": {
+        "projectId": "98e31a2a-699d-44a7-81c8-2deacb49f899"
+      }
+    },
+    "android": {
+      "package": "com.mkrmayank.Google_sheets_clone"
+    }
   }
 }
